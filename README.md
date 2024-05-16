@@ -1,7 +1,5 @@
 # Regression Project
 
-## Description
-
 [Regression discontinuity design](https://en.wikipedia.org/wiki/Regression_discontinuity_design) (RDD) is a method used to identify the effect of a change implemented at a cutoff point. This usually leads to pretty diagrams like this one:
 
 <img src="./assets/rdd1.png" style="max-width: 600px"/>
